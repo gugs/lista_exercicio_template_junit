@@ -16,7 +16,7 @@ public class TesteDeUnidadeLista {
 
 	@Test
 	public void testQuestaoUmListaUm() {
-		Assert.assertTrue(true);
+		Assert.assertTrue(false);
 	}
 	
 	@Test
@@ -63,6 +63,7 @@ public class TesteDeUnidadeLista {
 	
 	@Test
 	public void testQuestaoTresListaDois() {
+		Assert.assertTrue(false);
 	}
 
 	@Test
